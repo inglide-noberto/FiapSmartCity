@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapSmartCity", "FiapSmartCity\FiapSmartCity.csproj", "{ECCDD5DA-61C6-4AE4-B947-EFE20398A36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCDD5DA-61C6-4AE4-B947-EFE20398A36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCDD5DA-61C6-4AE4-B947-EFE20398A36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCDD5DA-61C6-4AE4-B947-EFE20398A36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCDD5DA-61C6-4AE4-B947-EFE20398A36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0335192C-FBDB-4FBC-BEDD-2724C818A80B}
+	EndGlobalSection
+EndGlobal
